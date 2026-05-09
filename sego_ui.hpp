@@ -1,3 +1,10 @@
+/*
+ * SegoUI.hpp - Header-only UI Library for SDL3 & GLM
+ * Copyright (c) 2026 kartendsy
+ * Licensed under the MIT License.
+ * See LICENSE file in the project root for full license information.
+ */
+
 #pragma once
 
 #include <SDL3/SDL.h>
