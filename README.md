@@ -1,3 +1,3 @@
 # SegoUI
-## UI for SDL3
+UI for SDL3
 
